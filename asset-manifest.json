@@ -1,13 +1,13 @@
 {
   "main.css": "/react_todo/static/css/main.fa97bfb7.chunk.css",
-  "main.js": "/react_todo/static/js/main.ab613693.chunk.js",
-  "main.js.map": "/react_todo/static/js/main.ab613693.chunk.js.map",
+  "main.js": "/react_todo/static/js/main.8d94721b.chunk.js",
+  "main.js.map": "/react_todo/static/js/main.8d94721b.chunk.js.map",
   "static/js/1.1cc6e453.chunk.js": "/react_todo/static/js/1.1cc6e453.chunk.js",
   "static/js/1.1cc6e453.chunk.js.map": "/react_todo/static/js/1.1cc6e453.chunk.js.map",
   "runtime~main.js": "/react_todo/static/js/runtime~main.92900329.js",
   "runtime~main.js.map": "/react_todo/static/js/runtime~main.92900329.js.map",
   "static/css/main.fa97bfb7.chunk.css.map": "/react_todo/static/css/main.fa97bfb7.chunk.css.map",
   "index.html": "/react_todo/index.html",
-  "precache-manifest.80c08bdfc206c9b211aaa0092d1b7622.js": "/react_todo/precache-manifest.80c08bdfc206c9b211aaa0092d1b7622.js",
+  "precache-manifest.1509cd2866e612b9393b3d02f5512d00.js": "/react_todo/precache-manifest.1509cd2866e612b9393b3d02f5512d00.js",
   "service-worker.js": "/react_todo/service-worker.js"
 }

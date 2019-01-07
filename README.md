@@ -1,6 +1,7 @@
 A todo App build with React and deployed with gihub pages
 
-## [Check out  React Todo App](https://gerardinhoo.github.io/react_todo/)
+## Check out  React Todo App
+https://gerardinhoo.github.io/react_todo/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
